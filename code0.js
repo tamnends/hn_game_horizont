@@ -52,6 +52,10 @@ gdjs.MainMenuCode.GDNewSprite2Objects1= [];
 gdjs.MainMenuCode.GDNewSprite2Objects2= [];
 gdjs.MainMenuCode.GDNewSprite2Objects3= [];
 gdjs.MainMenuCode.GDNewSprite2Objects4= [];
+gdjs.MainMenuCode.GDNewSprite3Objects1= [];
+gdjs.MainMenuCode.GDNewSprite3Objects2= [];
+gdjs.MainMenuCode.GDNewSprite3Objects3= [];
+gdjs.MainMenuCode.GDNewSprite3Objects4= [];
 
 
 gdjs.MainMenuCode.mapOfGDgdjs_9546MainMenuCode_9546GDByButtonObjects3Objects = Hashtable.newFrom({"ByButton": gdjs.MainMenuCode.GDByButtonObjects3});
@@ -595,6 +599,10 @@ gdjs.MainMenuCode.GDNewSprite2Objects1.length = 0;
 gdjs.MainMenuCode.GDNewSprite2Objects2.length = 0;
 gdjs.MainMenuCode.GDNewSprite2Objects3.length = 0;
 gdjs.MainMenuCode.GDNewSprite2Objects4.length = 0;
+gdjs.MainMenuCode.GDNewSprite3Objects1.length = 0;
+gdjs.MainMenuCode.GDNewSprite3Objects2.length = 0;
+gdjs.MainMenuCode.GDNewSprite3Objects3.length = 0;
+gdjs.MainMenuCode.GDNewSprite3Objects4.length = 0;
 
 gdjs.MainMenuCode.eventsList4(runtimeScene);
 gdjs.MainMenuCode.GDTitleObjects1.length = 0;
@@ -649,6 +657,10 @@ gdjs.MainMenuCode.GDNewSprite2Objects1.length = 0;
 gdjs.MainMenuCode.GDNewSprite2Objects2.length = 0;
 gdjs.MainMenuCode.GDNewSprite2Objects3.length = 0;
 gdjs.MainMenuCode.GDNewSprite2Objects4.length = 0;
+gdjs.MainMenuCode.GDNewSprite3Objects1.length = 0;
+gdjs.MainMenuCode.GDNewSprite3Objects2.length = 0;
+gdjs.MainMenuCode.GDNewSprite3Objects3.length = 0;
+gdjs.MainMenuCode.GDNewSprite3Objects4.length = 0;
 
 
 return;
