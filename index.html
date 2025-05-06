@@ -9,8 +9,7 @@
 
     <meta name="theme-color" content="#000000" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-<meta name="telegram" content="webapp">
-<script src="https://telegram.org/js/telegram-web-app.js?57"></script>
+
 	<style>
 		body {
 			margin: 0;
@@ -140,11 +139,6 @@
 	<script>
 
     (function() {
-    	const tg = window.Telegram?.WebApp;
-        if (tg) {
-            tg.ready();
-            tg.expand(); // 🧨 ВАЖНО: именно это делает игру полноэкранной
-        }
         //Initialization
         var game = new gdjs.RuntimeGame(gdjs.projectData, {});
 
